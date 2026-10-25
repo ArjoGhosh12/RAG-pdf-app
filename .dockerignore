@@ -1,0 +1,12 @@
+
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+.env
+.git/
+doc_vectorstore/
+chroma_test_db/
+chroma_integration_test/
+chroma_write_test/
+chroma_write_test_2/
